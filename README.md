@@ -8,4 +8,6 @@ $ ./node_modules/mocha/bin/mocha    - sets up mocha
 ```
 
 ### Running Tests
+```
 $ npm test
+```
