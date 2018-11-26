@@ -1,4 +1,4 @@
-# TDD-Training-Cource
+# TDD-Training-Course
 Training on TDD practices
 ### Repo Setup Process
 ```
